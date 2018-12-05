@@ -1,7 +1,7 @@
 {
     "name": "Empty Tab",
     "description": "Make New Tab Empty in Google Chrome.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "manifest_version": 2,
     "icons": {
         "16": "et-16.png",
