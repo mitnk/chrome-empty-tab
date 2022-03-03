@@ -1,0 +1,14 @@
+{
+    "name": "Mini Tab",
+    "description": "Make New Tab mini and show some text",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "et-16.png",
+        "48": "et-48.png",
+        "128": "et-128.png"
+    },
+    "chrome_url_overrides" : {
+        "newtab": "empty.html"
+    }
+}
