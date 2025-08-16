@@ -2,7 +2,7 @@
     "name": "Empty Tab",
     "description": "Make New Tab Empty editable in Google Chrome.",
     "version": "0.1.2",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "icons": {
         "16": "et-16.png",
         "48": "et-48.png",
